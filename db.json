@@ -1,0 +1,174 @@
+{
+  "users": [
+    {
+      "id": "demo-user",
+      "name": "Demo User",
+      "email": "demo@matchday.com",
+      "password": "Matchday123"
+    },
+    {
+      "name": "Abin",
+      "email": "ytecy82@gmail.com",
+      "password": "Demo12",
+      "id": "WuWQq_Cf8dE"
+    },
+    {
+      "name": "Abin",
+      "email": "iamabinaravind@gmail.com",
+      "password": "Abin123",
+      "id": "eIAzZMdTc2k"
+    },
+    {
+      "name": "Abin",
+      "email": "abin@gmail.com",
+      "password": "Demo12",
+      "id": "Z5WqrHSKU5w"
+    }
+  ],
+  "matches": [
+    {
+      "id": "m1",
+      "userId": "demo-user",
+      "homeTeam": "North London FC",
+      "awayTeam": "River Plate",
+      "homeScore": 3,
+      "awayScore": 1,
+      "date": "2026-11-10",
+      "time": "18:30",
+      "competition": "Premier League",
+      "venue": "Emirates Stadium",
+      "status": "Completed",
+      "category": "League",
+      "players": [
+        {
+          "name": "Alex Morgan",
+          "team": "North London FC",
+          "goals": 2,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        },
+        {
+          "name": "Daniel Silva",
+          "team": "River Plate",
+          "goals": 1,
+          "assists": 0,
+          "yellow": 1,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "id": "m2",
+      "userId": "demo-user",
+      "homeTeam": "Blue City",
+      "awayTeam": "United Athletic",
+      "homeScore": 2,
+      "awayScore": 2,
+      "date": "2026-11-12",
+      "time": "20:00",
+      "competition": "Champions Cup",
+      "venue": "City Arena",
+      "status": "Completed",
+      "category": "Cup",
+      "players": [
+        {
+          "name": "Sam Wilson",
+          "team": "Blue City",
+          "goals": 1,
+          "assists": 1,
+          "yellow": 0,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "id": "m3",
+      "userId": "demo-user",
+      "homeTeam": "Coastal FC",
+      "awayTeam": "North London FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "date": "2026-11-15",
+      "time": "17:00",
+      "competition": "Premier League",
+      "venue": "Coastal Ground",
+      "status": "Upcoming",
+      "category": "League",
+      "players": []
+    },
+    {
+      "id": "m4",
+      "userId": "demo-user",
+      "homeTeam": "United Athletic",
+      "awayTeam": "Blue City",
+      "homeScore": 0,
+      "awayScore": 0,
+      "date": "2026-11-18",
+      "time": "19:30",
+      "competition": "Champions Cup",
+      "venue": "United Park",
+      "status": "Upcoming",
+      "category": "Cup",
+      "players": [
+        {
+          "name": "abin",
+          "team": "bluecity",
+          "goals": 10,
+          "assists": 1,
+          "yellow": 1,
+          "red": 0
+        }
+      ]
+    },
+    {
+      "homeTeam": "csk",
+      "awayTeam": "rcb",
+      "homeScore": 0,
+      "awayScore": 0,
+      "date": "2025-10-10",
+      "time": "18:00",
+      "competition": "Premier League",
+      "venue": "THRISSUR",
+      "status": "Completed",
+      "category": "Cup",
+      "players": [],
+      "userId": "demo-user",
+      "id": "s_0W7ohS7tk"
+    },
+    {
+      "homeTeam": "xs",
+      "awayTeam": "sd",
+      "homeScore": 3,
+      "awayScore": 3,
+      "date": "2026-11-04",
+      "time": "18:00",
+      "competition": "Premier League",
+      "venue": "sd",
+      "status": "Upcoming",
+      "category": "League",
+      "players": [],
+      "userId": "Z5WqrHSKU5w",
+      "id": "tzG5G9yw8E0"
+    }
+  ],
+  "downloads": [
+    {
+      "userId": "demo-user",
+      "name": "Blue City vs United Athletic",
+      "matchId": "m2",
+      "createdAt": "2026-11-07T10:37:02.766Z",
+      "type": "Match summary",
+      "id": "cS2Neespu4g"
+    },
+    {
+      "userId": "demo-user",
+      "name": "North London FC vs River Plate",
+      "matchId": "m1",
+      "createdAt": "2026-11-07T16:53:13.119Z",
+      "type": "Match summary",
+      "id": "wWssm4dWg4Y"
+    }
+  ]
+
+}
